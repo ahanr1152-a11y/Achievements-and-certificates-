@@ -31,6 +31,6 @@ I believe that every hackathon, certificate, and project is a step toward becomi
 
 ---
 
-## 📂 Repository Contents
+### 🌱 "Learning never stops. Every certificate represents another step forward in my journey as a developer."
 
-- 📜 HackRust Participation
+⭐ Thank you for visiting my repository!
